@@ -1,4 +1,4 @@
 package com.mxc.demo;
 
-public class Test {
+public class WoDeH {
 }
